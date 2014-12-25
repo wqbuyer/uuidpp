@@ -7,4 +7,4 @@ php 通用唯一识别码 UUID 扩展
 
 64位 ubuntu 适用.
 
-文档地址:
+文档地址:http://www.wqbuyer.com/demo/blog/5.html
